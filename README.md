@@ -23,7 +23,7 @@ Those who belong to the 'Employed' employment status earns more than any other e
 
 ## This project contains the following:
 
- Part_I_notebook.ipynb
+   - Part_I_notebook.ipynb
    - Part_I_notebook.html
    - Part_II_notebook.ipynb
    - Part_I_slides.html and pdf
